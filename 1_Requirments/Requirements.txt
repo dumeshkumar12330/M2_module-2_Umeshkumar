@@ -5,6 +5,8 @@ Hardware Requirments
 1. Card board 
 2. Glue
 3. Tape
+4. Wheels(4x)
+5. Jumper wires
 
 Component required for the project
 
