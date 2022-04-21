@@ -2,6 +2,9 @@ Software Requirments
 Any simulation software like proteus , simulIde , multisim.
 
 Hardware Requirments
+1. Card board 
+2. Glue
+3. Tape
 
 Component required for the project
 
