@@ -1,1 +1,13 @@
+Sir/maam
 
+I have done a human following robot, working model and simulation using simulIDE
+
+Human following robot is very common in this technology era. Human following is a technique used by robot and autonomous vehicles to follow a human within a specific range. In this case, communication between the human and the robot is the most significant factor where sensor is needed to ensure its successfulness.
+It can be used in carry cases so they would follow the human being.
+
+Due to requirement of Ir sensor in project, simulide is dosent have it so i have exculed the part of IR sensor in simulation.
+
+What are the advantages of human following robot?
+1) They can be used in industries as automated equipment carriers
+2) It can be used for home for floor cleaning etc. 
+3) In hotels they are being used for the transfer of things from one place to another following a straight path
