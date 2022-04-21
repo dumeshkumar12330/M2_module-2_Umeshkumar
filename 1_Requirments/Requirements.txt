@@ -1,0 +1,14 @@
+Software Requirments
+Any simulation software like proteus , simulIde , multisim.
+
+Hardware Requirments
+
+Component required for the project
+
+1. Aurdino Uno (atmeag328)
+2. Motor driver (L293)
+3. Ultrasonic sensor
+3. Battery - 5V (2)
+4. Servo Motor
+5. IR sensor
+6. DC motor
