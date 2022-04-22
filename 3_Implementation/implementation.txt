@@ -32,4 +32,4 @@ Step 7:Checks the condition
         # all motors release 
 Step 8:if It is to close to the object it will stop 
             then go back to step 6
-Step 9:END
+Step 9:END.
