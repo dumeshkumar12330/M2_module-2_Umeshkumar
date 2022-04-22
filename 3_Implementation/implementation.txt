@@ -1,0 +1,35 @@
+1. In this chapter, the design and implementation of human following robot is discussed.
+
+This project's main goal is to create a robot which can follow humans. There are two aspects to the project: hardware and software. It is made up of three primary components: inputs, main controller, and output, as indicated.
+
+2. Software implementation
+
+In this chapter, the design and development of algorithm of program logic is discussed. The flowchart to develop the program logic with the program implementation is also being discussed. 
+
+when anything comes near to the left sensor Arduino got the information that there is something is near to the left sensors and according to the code, the robot will turn to the left. and the same process for the right sensor. so this is how the human following robot works.
+
+There are four motors. to run front and back 
+It uses reversing technology in the front two motors to turn right and left
+
+The pseudo code is explained below
+
+tep 1:Start
+Step 2:Initialize motor 1,2,3,4
+Step 3:Checks the Value Difference of ultrasoni sensor and IR sensor 
+Step 4:Check the condition
+         if((Right_Value==1) && (distance>=10 && distance<=30)&&(Left_Value==1)) (ultrasonic sensor)
+         # all motors run in forward direction
+Step 5:Checks the condition  
+         if((Right_Value==0) && (Left_Value==1)) IR sensor both the sides 
+          # front 2 motors run forward and back 2 motors runs backwords 
+
+Step 6:Checks the condition
+         if((Right_Value==1)&&(Left_Value==1)) IR sensor 
+         #  all motors RELEASE 
+
+Step 7:Checks the condition
+        if(distance > 1 && distance < 10)
+        # all motors release 
+Step 8:if It is to close to the object it will stop 
+            then go back to step 6
+Step 9:END
