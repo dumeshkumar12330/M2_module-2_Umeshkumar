@@ -2,7 +2,7 @@
 //D Umeshkumar 
 //Ltts 
 //dumeshkumar12330@gmail.com
-//Human following robot
+//Human following robot.
 
 
 #include<NewPing.h>
