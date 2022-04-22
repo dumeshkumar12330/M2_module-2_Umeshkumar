@@ -1,0 +1,1 @@
+Technique used by robot and autonomous vehicles to follow a human within a specific range
