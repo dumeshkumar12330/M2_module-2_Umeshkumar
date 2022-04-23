@@ -1,0 +1,9 @@
+1. A decentralized top down approach is used for this project.
+
+2. The project is divided in to five modules. Each module is independent from one another. Different phases were carriedout step by step, starting from basic sensor     testing and proceeding towards obstacle avoidance, object detection, object tracking and data transmission. 
+
+3. Due to the decentralized approach, all modules and sensorsact independently. Data obtained by different sensors andmodules is collectively analyzed and an intelligent decision on the basis of information obtained is made that instruct therobot to follow a particular direction. Two separate units areused i.e. microprocessor and a controller. The processing is carried out by microprocessor and the information obtainedby the sensors is controlled by a controller i.e. Arduino board.A serial communication between microprocessor and controller is established to exchange the visual sensing information. 
+
+4. This approach was most suitable because if there is a fault in any one of the modules then it would not affect the entiresystem. Hence this provides the best possible results by maintaining accuracy.
+
+5. Human tracking, obstacle avoidance, maintaining a specific distance from the object and establishing a communication link between microprocessor and controller are the main aspects of this project. 
